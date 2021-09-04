@@ -5,10 +5,10 @@
 
 闲暇时间翻译，欢迎指正，感谢加星~
 
-### 封面
-![Mastering Ethereum](images/cover.png)
 
-### 目录
+
+
+
 
 [前言](前言.asciidoc)
 
